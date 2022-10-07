@@ -1,0 +1,104 @@
+.header{
+ background: #EB5757;
+ background: -webkit-linear-gradient(to right, #000000, #EB5757);
+ background: linear-gradient(to right, #000000, #EB5757);
+ height: 100px;
+ width: 300px;
+ border: 1px solid black;
+}
+.image{
+  width: 40px;
+  height: 40px;
+  margin-top: 40px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.calendar_sign
+{
+  margin-top: 40px;
+  color: #EB5757;  /* fallback for old browsers */
+  color: -webkit-linear-gradient(to bottom, #000000, #EB5757);  /* Chrome 10-25, Safari 5.1-6 */
+  color: linear-gradient(to bottom, #000000, #EB5757);
+}
+.calendar
+{
+  height: 100px;
+  width: 300px;
+  background: #EB5757;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #000000, #EB5757);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #000000, #EB5757);
+}
+.task
+{
+
+  width: 300px;
+  height: 1000px;
+  background: #EB5757;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #000000, #EB5757);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #000000, #EB5757);
+  border-style: solid;
+  padding: 5px;
+  border-width: 5px;
+}
+.color_task{
+  color: #EB5757;  /* fallback for old browsers */
+  color: -webkit-linear-gradient(to bottom, #000000, #EB5757);  /* Chrome 10-25, Safari 5.1-6 */
+  color: linear-gradient(to bottom, #000000, #EB5757);
+}
+.create_task{
+
+  position: relative;
+  width: 300px;
+  height: 200px;
+  background: #EB5757;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #000000, #EB5757);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #000000, #EB5757);
+  border-style: solid;
+
+  border-width: 5px;
+}
+.input_field
+{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  background: #EB5757;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #000000, #EB5757);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #000000, #EB5757);
+  color: #EB5757;  /* fallback for old browsers */
+  color: -webkit-linear-gradient(to bottom, #000000, #EB5757);  /* Chrome 10-25, Safari 5.1-6 */
+  color: linear-gradient(to bottom, #000000, #EB5757);
+}
+.button{
+  color: #EB5757;  /* fallback for old browsers */
+  color: -webkit-linear-gradient(to bottom, #000000, #EB5757);  /* Chrome 10-25, Safari 5.1-6 */
+  color: linear-gradient(to bottom, #000000, #EB5757);
+  background: #EB5757;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #000000, #EB5757);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #000000, #EB5757);
+}
+.tabela
+{
+  color: #EB5757;  /* fallback for old browsers */
+  color: -webkit-linear-gradient(to bottom, #000000, #EB5757);  /* Chrome 10-25, Safari 5.1-6 */
+  color: linear-gradient(to bottom, #000000, #EB5757);
+  background: #EB5757;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #000000, #EB5757);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #000000, #EB5757);
+  width: 300px;
+  height: 400px;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  margin-top: 35px;
+}
+.image2
+{
+  width: 10px;
+  height: 10px;
+}
+
+
+
